@@ -18,15 +18,7 @@ PS C:\Users\user\Documents\new project for the git exercises> git commit -m "fir
  1 file changed, 14 insertions(+)        
  create mode 100644 readme.md
 d origin https://github.com/Gihozo23/theGymGitExercises.git
-PS C:\Users\user\Documents\new project for the git exercises> git push     
-fatal: The current branch main has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin main
-
-To have this happen automatically for branches without a tracking
-upstream, see 'push.autoSetupRemote' in 'git help config'.
-t-upstream origin main
+PS C:\Users\user\Documents\new project for the git exercises> git push --set-upstream origin main
 Enumerating objects: 3, done.
 Delta compression using up to 4 threads
 Compressing objects: 100% (2/2), done.
