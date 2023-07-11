@@ -33,3 +33,5 @@ PS C:\Users\user\Documents\new project for the git exercises> git checkout dev
 Switched to branch 'dev'
 PS C:\Users\user\Documents\new project for the git exercises> git branch -d test
 Deleted branch test (was 4fbb49e).
+
+# Exercise 2
