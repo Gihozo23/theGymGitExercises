@@ -1,5 +1,6 @@
 # Bundle 1
 # Exercise 1
+```
 PS C:\Users\user\Documents> cd "new project for the git exercises"
                                              e git exercises> git init       
 No commits yet
@@ -33,8 +34,10 @@ PS C:\Users\user\Documents\new project for the git exercises> git checkout dev
 Switched to branch 'dev'
 PS C:\Users\user\Documents\new project for the git exercises> git branch -d test
 Deleted branch test (was 4fbb49e).
+```
 
 # Exercise 2
+```
 > git add .
 > git stash save "saving changes for the home.html file"
 Saved working directory and index state On dev: saving changes for the home.html file
@@ -75,3 +78,4 @@ Changes to be committed:
 Dropped stash@{0} (2f6d746d52320f610224ee1fb9362b07391431c1)
 $ git reset --hard HEAD
 HEAD is now at 31f1d2c another commit
+```
